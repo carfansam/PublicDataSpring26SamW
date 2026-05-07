@@ -1,0 +1,37 @@
+/* Page styling */
+
+body {
+  font-family: "Source Sans 3", sans-serif;
+  font-size: 16px;
+  padding: 1em;
+}
+
+/* headings */
+h1 {
+  font-size: 3em;
+  margin: 0.25em 0;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+
+/* paragraphs */
+p {
+  font-size: 1em;
+  color: darkblue;
+}
+
+/* REQUIRED class selector */
+.highlight {
+  color: crimson;
+}
+
+/* REQUIRED CSS comment */
+/* assignment styling */

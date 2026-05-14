@@ -1,3 +1,5 @@
 This assignment demonstrates the abilities of D3 methods to create a basic bar chart using a CSV dataset.
 The dataset contains monthly sales for different salesman, this bar chart specifically displays John's
 monthly sales. 
+
+![D3 Preview](D3preview.png)
